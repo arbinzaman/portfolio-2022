@@ -5,12 +5,7 @@
   <p align="center">
     It is a personal portfolio Site 
     
-    Live Site URL / Demo: 
-    <a href="http://arbinzaman.xyz/">www.arbinzaman.xyz</a>
-    <br />
-    <br />
-    <a href="https://github.com/arbinzaman">About Me</a>
-  </p>
+    
 </p>
 
 [![Site preview](/public/social-image.png)](http://arbinzaman.xyz/)
