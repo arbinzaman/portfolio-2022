@@ -1,13 +1,13 @@
 <br />
 <p align="center">
-  <h1 align="center">Developer's Portfolio ✨</h1>
+  <h1 align="center"Arbin Zaman Portfolio 2022 ✨</h1>
 
   <p align="center">
     It is a personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects. Site URL / Demo: 
-    <a href="https://hashirshoaeb.github.io/home">hashirshoaeb.github.io/home</a>
+    <a href="http://arbinzaman.xyz/">www.arbinzaman.xyz</a>
     <br />
     <br />
-    <a href="https://hashirshoaeb.github.io">About Me</a>
+    <a href="https://github.com/arbinzaman">About Me</a>
   </p>
 </p>
 
