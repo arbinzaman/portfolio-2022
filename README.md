@@ -3,7 +3,9 @@
   <h1 align="center"Arbin Zaman Portfolio 2022 ✨</h1>
 
   <p align="center">
-    It is a personal static website/portfolio template Site Live  Site URL / Demo: 
+    It is a personal portfolio Site 
+    
+    Live Site URL / Demo: 
     <a href="http://arbinzaman.xyz/">www.arbinzaman.xyz</a>
     <br />
     <br />
