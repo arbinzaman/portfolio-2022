@@ -52,8 +52,8 @@ const mainBody = {
 const about = {
   show: true,
   heading: "About Me",
-  imageLink: require("../editable-stuff/Arbin.png"),
-  imageSize: 370,
+  imageLink: require("../editable-stuff/ArbinZaman2.jpg"),
+  imageSize: 400,
   message:
     "Hey There!! Are you Looking for Web Developer ? Here You can find me suitable for your desire work. I am Skilled at Javascript and React Js based Environment. Beside I am quick Learner about anything and also I have enough patients to done any work in time . I have done many projects MERN Stack based.",
   resume: "https://drive.google.com/file/d/1nZckFr8A_unwuXD4w0hLQscE_TINsbI7/view?usp=sharing",
@@ -68,8 +68,8 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "arbinzaman", //i.e."johnDoe12Gh"
-  reposLength: 0,
-  specificRepos: ["Nazma-Jute-Weaving-Industries ","Trade-Client-Site","Citro-Golpo-Client-Site","Coding-Hero", "repo-2", "repo-25","repo-22","repo-20" ],
+  reposLength: 2,
+  specificRepos: ["hospital-management-system-client ","Trade-Client-Site","Citro-Golpo-Client-Site","Coding-Hero", "repo-2", "repo-25","repo-22","repo-20" ],
   // specificRepos: ["Coding-Hero", "repo-20" ],
 };
 
@@ -103,13 +103,13 @@ const skills = {
   heading: "Skills",
   hardSkills: [
     { name: "React", value: 90 },
-    { name: "BootStrap", value: 75 },
+    { name: "Typescript", value: 75 },
     { name: "MongoDB", value: 85 },
     { name: "C/C++", value: 65 },
     { name: "JavaScript", value: 90 },
     { name: "TailWind", value: 65 },
     { name: "HTML/CSS", value: 55 },
-    { name: "C#", value: 80 },
+    { name: "MySql", value: 80 },
   ],
   softSkills: [
     { name: "Photography", value: 90 },
