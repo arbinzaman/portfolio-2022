@@ -56,7 +56,7 @@ const about = {
   message:
     "Hey There!! I'm a passionate JavaScript developer with a strong focus on React and Node.js. Over the past years, I've honed my skills in building dynamic, user-friendly web applications that provide seamless user experiences. My journey in web development has been fueled by a deep curiosity for technology and a drive to continually learn and improve.",
   resume:
-    "https://drive.google.com/file/d/1d02l2hTf0gchCYCSqsiy1DRX7f_gmN_U/view",
+    "https://drive.google.com/file/d/1Xt7e5-04TjO2juZx2dHAFsxM7uvH0Bhh/view?usp=sharing",
 };
 
 // PROJECTS SECTION
