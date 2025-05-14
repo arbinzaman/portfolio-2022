@@ -8,7 +8,7 @@
     
 </p>
 
-[![Site preview](/public/social-image.png)](http://arbinzaman.xyz/)
+[![Site preview](/public/social-image.png)](http://arbin.live)
 
 ## Technology Stack 🛠️
 

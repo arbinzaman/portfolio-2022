@@ -54,9 +54,9 @@ const about = {
   imageLink: require("../editable-stuff/ArbinZaman2.jpg"),
   imageSize: 400,
   message:
-    "Hey There!! I'm a passionate JavaScript developer with a strong focus on React and Node.js. Over the past years, I've honed my skills in building dynamic, user-friendly web applications that provide seamless user experiences. My journey in web development has been fueled by a deep curiosity for technology and a drive to continually learn and improve.",
+    "Hey there! I’m a passionate Software Engineer with a strong focus on JavaScript, particularly in React and Node.js. Over the past few years, I’ve honed my skills in building dynamic, user-friendly web applications that deliver seamless user experiences. My journey in software development has been driven by a deep curiosity for technology and a commitment to continual learning and improvement.",
   resume:
-    "https://drive.google.com/file/d/1nZckFr8A_unwuXD4w0hLQscE_TINsbI7/view?usp=sharing",
+    "https://drive.google.com/file/d/1Xt7e5-04TjO2juZx2dHAFsxM7uvH0Bhh/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -130,7 +130,7 @@ const getInTouch = {
   show: true,
   heading: "Get In Touch",
   message:
-    "I'm currently looking for Part-time Web Developer opportunities! If you know of any positions available, if you have any questions, or if you just want to say hi, please feel free to email me at",
+    "If you have any questions, or if you just want to say hi, please feel free to email me at",
   email: "arbinzmn@gmail.com",
 };
 
