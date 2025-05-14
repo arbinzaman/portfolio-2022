@@ -48,15 +48,15 @@ const mainBody = {
 //     i.e resume: require("../editable-stuff/resume.pdf"),
 //         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 
-
 const about = {
   show: true,
   heading: "About Me",
   imageLink: require("../editable-stuff/ArbinZaman2.jpg"),
   imageSize: 400,
   message:
-    "Hey There!! Are you Looking for Web Developer ? Here You can find me suitable for your desire work. I am Skilled at Javascript and React Js based Environment. Beside I am quick Learner about anything and also I have enough patients to done any work in time . I have done many projects MERN Stack based.",
-  resume: "https://drive.google.com/file/d/1nZckFr8A_unwuXD4w0hLQscE_TINsbI7/view?usp=sharing",
+    "Hey There!! I'm a passionate JavaScript developer with a strong focus on React and Node.js. Over the past years, I've honed my skills in building dynamic, user-friendly web applications that provide seamless user experiences. My journey in web development has been fueled by a deep curiosity for technology and a drive to continually learn and improve.",
+  resume:
+    "https://drive.google.com/file/d/1nZckFr8A_unwuXD4w0hLQscE_TINsbI7/view?usp=sharing",
 };
 
 // PROJECTS SECTION
@@ -68,8 +68,10 @@ const repos = {
   show: true,
   heading: "Recent Projects",
   gitHubUsername: "arbinzaman", //i.e."johnDoe12Gh"
-  reposLength: 2,
-  specificRepos: ["hospital-management-system-client ","Trade-Client-Site","Citro-Golpo-Client-Site","Coding-Hero", "repo-2", "repo-25","repo-22","repo-20" ],
+  reposLength: 6,
+  specificRepos: [
+    
+  ],
   // specificRepos: ["Coding-Hero", "repo-20" ],
 };
 
@@ -80,21 +82,21 @@ const leadership = {
   message:
     "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae auctor eu augue ut lectus arcu bibendum at varius. Libero justo laoreet sit amet cursus sit amet. Imperdiet dui accumsan sit amet nulla facilisi morbi. At auctor urna nunc id. Iaculis urna id volutpat lacus laoreet non curabitur gravida. Et magnis dis parturient montes nascetur ridiculus mus mauris. In nisl nisi scelerisque eu ultrices vitae auctor. Mattis nunc sed blandit libero volutpat sed cras ornare. Pulvinar neque laoreet suspendisse interdum consectetur libero.",
   images: [
-    { 
-      img: require("../editable-stuff/ArbinZaman2.jpg"), 
-      label: "First slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/ArbinZaman2.jpg"),
+      label: "First slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
     },
-    { 
-      img: require("../editable-stuff/ArbinZaman2.jpg"), 
-      label: "Second slide label", 
-      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum." 
+    {
+      img: require("../editable-stuff/ArbinZaman2.jpg"),
+      label: "Second slide label",
+      paragraph: "Nulla vitae elit libero, a pharetra augue mollis interdum.",
     },
   ],
   imageSize: {
-    width:"615",
-    height:"450"
-  }
+    width: "615",
+    height: "450",
+  },
 };
 
 // SKILLS SECTION
@@ -137,21 +139,30 @@ const experiences = {
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: "Front-End Developer(Intern)", // Here Add Company Name
+      companylogo: require("../editable-stuff/uniechLogo.jpg"),
+      date: "March 2023 – June 2023",
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: "Front-End Developer(Contract)",
+      companylogo: require("../editable-stuff/Rahimafrooz Logo.png"),
+      date: "May 2024- Present",
     },
-  ]
-}
+  ],
+};
 
 // Blog SECTION
 // const blog = {
 //   show: false,
 // };
 
-export { navBar, mainBody, about, repos, skills, leadership, getInTouch, experiences };
+export {
+  navBar,
+  mainBody,
+  about,
+  repos,
+  skills,
+  leadership,
+  getInTouch,
+  experiences,
+};
